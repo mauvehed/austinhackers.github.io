@@ -1,0 +1,4 @@
+baseURL = 'https://takeonme.org/'
+languageCode = 'en-us'
+title = 'Austin Hackers Anonymous'
+theme = "terminal"

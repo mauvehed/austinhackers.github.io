@@ -6,8 +6,12 @@ This github repository contains the [website](http://takeonme.org) for the Austi
 
 ## Local Dev
 
-If you want to make changes and actually test them locally, a [Rakefile](https://github.com/AustinHackers/austinhackers.github.io/blob/main/Rakefile) is included to run the local jekyll server for testing.
+If you want to make changes and test them locally, you'll need to [install Hugo](https://gohugo.io/installation/).
 
-```bundle exec rake```
+### Run the webserver
 
-This will launch a local web server running on <http://127.0.0.1:4000/> that auto-updates the test site live when changes are detected on disk.
+```sh
+hugo server -t terminal
+```
+
+This will launch a local web server running on <http://localhost:1313> that auto-updates the test site live when changes are detected on disk.
