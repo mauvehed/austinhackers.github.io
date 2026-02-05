@@ -8,7 +8,7 @@
     {
       "role": "m.role.security",
       "matrix_id": "@nate:takeonme.org",
-      "email_address": "aha@takeonme.org"
+      "email_address": "matrix@takeonme.org"
     }
   ],
   "support_page": "https://takeonme.org/contact"
